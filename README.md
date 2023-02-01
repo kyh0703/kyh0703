@@ -20,3 +20,8 @@ You can click the Preview link to take a look at your changes.
 ### Solved.ac
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kyh0703)](https://solved.ac/kyh0703)
+
+### Waketime
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
