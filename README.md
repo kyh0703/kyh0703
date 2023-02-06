@@ -11,7 +11,10 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+### Certification
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ### Favorite skill
 
