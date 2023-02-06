@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Update Readme Actions
 on:
   schedule:
     - cron: '30 18 * * *'
