@@ -24,4 +24,4 @@ jobs:
       - name: Badges - README
         uses: pemtajo/badge-readme@main
         with:
-          INPUT_CREDLY_USER: "kim-yeonho"
+          CREDLY_USER: "kim-yeonho"
