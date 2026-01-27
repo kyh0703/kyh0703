@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/nodejs-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/Nestjs-000000?style=for-the-badge&logo=nestjs&logoColor=white)
