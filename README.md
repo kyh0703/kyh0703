@@ -22,14 +22,14 @@ You can click the Preview link to take a look at your changes.
 ### Favorite skill
 
 
-![](https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=A8B9CC)
-![](https://img.shields.io/badge/C++-000000?style=flat&logo=c%2B%2B&logoColor=00599C)
+![](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/nodejs-000000?style=flat&logo=node.js&logoColor=A8B9CC)
-![](https://img.shields.io/badge/Nextjs-000000?style=flat&logo=nextdotjs&logoColor=A8B9CC)
-![](https://img.shields.io/badge/Nestjs-000000?style=flat&logo=nestjs&logoColor=A8B9CC)
-![](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=2496ED)
-![](https://img.shields.io/badge/Kubernetes-000000?style=flat&logo=kubernetes&logoColor=326CE5)
+![](https://img.shields.io/badge/nodejs-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/Nestjs-000000?style=for-the-badge&logo=nestjs&logoColor=white)
+![](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### Solved.ac
 
